@@ -1,0 +1,3 @@
+
+Redirect /index.html http://www.domsnittalumni.net/portal/
+Redirect /portal/modules.php?name=Forum http://www.domsnittalumni.net/portal/modules.php?name=Forums

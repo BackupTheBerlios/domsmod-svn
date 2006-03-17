@@ -1,0 +1,1 @@
+http://localhost/modules.php?name=Your_Account&op=activate&username=Satish2&check_num=8a3c2f788615c7c84f50b4e41be2917c

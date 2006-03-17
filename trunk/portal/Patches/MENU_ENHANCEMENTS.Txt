@@ -1,0 +1,17 @@
+Ok, so you want to install Sommaire Paramétrable v2.1 manually ?
+
+Follow these steps :
+
+1. Upload the content of /html/ directory , keeping the directory structure
+
+2. import the sql file into your database.
+   don't forget to modify this file if you've changed the DB tables prefix (default is 'nuke')
+
+3. edit <server root>/admin/language/lang-YOURLANG.php, and add the text of the correct lang file :
+   see /language-packs/New install/YOURLANG/admin/lang-YOURLANG.txt if it's a new install
+   see /language-packs/upgrade v20 to v21/YOURLANG/admin/lang-YOURLANG.txt if you've installed v2.0 previously
+
+4. edit <server root>/language/lang-YOURLANG.php, and add the text of the correct lang file :
+   see /language-packs/New install/YOURLANG/lang-YOURLANG.txt
+
+Have fun!

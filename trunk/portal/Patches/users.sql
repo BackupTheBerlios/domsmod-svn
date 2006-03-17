@@ -1,0 +1,3 @@
+use domsnitt_p_nu1;
+INSERT INTO `nuke_users` VALUES (1, '', 'Anonymous', '', '', '', 'blank.gif', 'Nov 10, 2000', '', '', '', '', '', 0, 0, '', '', '', '', 10, '', 0, 0, 0, '', 0, '', '', 4096, 0, 0, 2, 0, 0, 1, 0, 0, 1, 0, 0, 0, 10, NULL, 'english', 'D M d, Y g:i a', 0, 0, 0, NULL, 1, 1, 1, 1, 1, 1, 1, 1, 0, 3, NULL, NULL, NULL, 0, '0');
+INSERT INTO `nuke_users` VALUES (2, '', 'Satish1', 'satish@inmage.net', '', 'http://', 'gallery/blank.gif', 'Dec 08, 2005', '', '', '', '', '', 0, NULL, '', '', '', '72bfb409ab10f1a38901327b5148cd96', 10, '', 0, 0, 0, '', 1, '', '', 4096, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1134120768, 0, 1134120423, 10, NULL, 'english', 'D M d, Y g:i a', 0, 0, 1134120768, NULL, 1, 1, 1, 1, 1, 1, 0, 1, 0, 3, NULL, NULL, NULL, 0, '221.134.125.2');

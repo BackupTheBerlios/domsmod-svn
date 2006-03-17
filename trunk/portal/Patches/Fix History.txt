@@ -1,0 +1,106 @@
+Release 1.1
+===========
+FIX 1.0 - Registration Enhancement
+====================================
+FIX Tags: //FIX:DOMSNITT   //END-OF-FIX
+
+Type: Enhancement
+(a)Resource:- /modules/Your_Account/index.php 			   		  [U P D A T E D] - DOM & AUM	
+	1. Function:New_User 	   - Add Code to display enhanced form elements 
+	2. Function:confirmNewUser - Changed the method signature and enhanced to process
+							 	 Additional elements
+	3. Function:finishNewUser  - Changed the method signature and enhanced to process
+							 	 Additional elements
+	4. Enhanced switch statement for "New User" and "Finish"
+
+(b)Resource:- doms.php												 [N E W]
+	1. Defined new labels
+	2. Added Common Functions 
+	
+(c)Resource:- /language/lang-english.php				 			 [U P D A T E D] - DOM & AUM
+
+(d)Resource:- /footer.php								 				    [U P D A T E D]
+
+(e)Resource:- /theme/iCGStation			 		 						     [N E W]
+
+(f)Resource:- /blocks/block-iCGstation-Forums.php		  					 [N E W]
+
+(g)Resource:- /blocks/block-doms-Login.php			   					     [N E W]
+
+(h)Resource:- /blocks/block-doms-Who_is_Online.php							 [N E W]
+
+(i)Resource:- /modules/Your_Account/admin/case.php 							 [U P D A T E D] - AUM
+
+(j)Resource:- /modules/Your_Account/admin/index.php 						 [U P D A T E D] - AUM
+
+(k)Resource:- /modules/Your_Account/admin/language/lang-english.php [U P D A T E D] - AUM
+
+(l)Resource:- /mainfile.php													 [U P D A T E D] - AUM
+
+(m)Resource:- /includes/myheader.php										 [U P D A T E D] - AUM
+
+(n)Resource:- /admin/modules/settings.php									 [U P D A T E D] - AUM
+
+(o)Resource:- /modules/Your_Account/language/lang-english					 [U P D A T E D] - AUM
+
+(p)Resource:- /blocks/block-doms-CZUser-Info.php								 [N E W]
+
+(q)Resource:- /language/CZUser-Info/CZUser-Info-english.php        				 [N E W]
+
+(r)Resource:- /images/CZUser/all image files							         [N E W]
+
+(s)Resource:- /modules/Your_Account/admin/nav.php							     [U P D A T E D]
+
+
+//****************************************************************************************
+(t)Resource:-
+PAL-Downloads-2.0
+	# gpl-license.txt
+	# README.txt
+	/html/
+		/admin/
+			/modules/
+				# download.modDownload.php
+				# download.modCat.php
+				# download.php
+		/modules/
+			/Downloads/
+				# comments.php
+				# copyright.php
+				# d_config.php
+				# details.php
+				# editorial.php
+				# index.php
+				# new.php
+				# pop.php
+				# search.php
+				# top.php
+				# view.php
+				# voteinclude.php
+				/images/
+					# closedfolder.gif
+					# download.gif
+					# icon30.gif
+					# openfolder.gif
+
+******************************************************************************************
+(u)Resource:- /blocks/block-doms_user_points							            [N E W]
+
+[MEMBER LIST ENHANCEMENTS]
+(v)Resource:- D:\domsnittalumni\public_html\portal\modules\Members_List\index.php   [U P D A T E D]
+
+(w)Resource:- D:\domsnittalumni\public_html\portal\modules\Forums\language\lang_english\lang_main.php [U P D A T E D]
+
+(x) Resource: D:\domsnittalumni\public_html\portal\themes\iCGstation\forums\memberlist_body.tpl [ U P D A T E D]
+
+[FORUM VIEW PROFILE ENHANCEMENTS]
+(y) Resource: D:\domsnittalumni\public_html\portal\includes\usercp_viewprofile.php [U P D A T E D]
+(z)Resource:- D:\domsnittalumni\public_html\portal\modules\Forums\language\lang_english\lang_main.php [U P D A T E D]
+(1)Resource:- D:\domsnittalumni\public_html\portal\themes\iCGstation\forums\profile_view_body.tpl [U P D A T E D]
+
+[MENU ENHANCEMENTS]
+
+(2) USE MENU_ENHANCEMENTS.Txt
+
+
+
